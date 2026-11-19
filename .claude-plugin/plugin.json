@@ -1,0 +1,20 @@
+{
+  "name": "zenith-workspaces",
+  "displayName": "Zenith Workspaces",
+  "version": "1.0.0",
+  "description": "See rooms at Zenith Workspaces in Tinton Falls, NJ, check live availability for a date, get a booking link, and answer questions about hours, pricing, parking, and mail service.",
+  "author": {
+    "name": "Zenith Workspaces, LLC",
+    "url": "https://www.zenithworkspaces.com"
+  },
+  "homepage": "https://www.zenithworkspaces.com/ai-assistants",
+  "license": "MIT",
+  "keywords": [
+    "coworking",
+    "office",
+    "conference room",
+    "Tinton Falls",
+    "New Jersey"
+  ],
+  "privacyPolicyUrl": "https://www.zenithworkspaces.com/mcp-privacy"
+}
